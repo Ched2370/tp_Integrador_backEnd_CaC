@@ -6,7 +6,7 @@
 - Maicol Pérez
 - Guillermo Paz Rodríguez
 - Verónica Franco
-- Ibañez Mario Martin
+- Mario Martin Ibañez
 
 ---
 
