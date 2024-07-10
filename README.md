@@ -43,6 +43,13 @@ Se genero 1 paquete principal con 3 subpaquetes
 
 ---
 
+- esquema de la base de datos
+
+  ![image](https://github.com/Ched2370/tp_Integrador_backEnd_CaC/assets/127058951/e2063f0c-2b48-4281-a34b-cec8a61808bf)
+
+
+---
+
 - Al finalizar podra por optar elegir conservar o eliminar la BD antes creada, con las opcines 6 y 7
 
 ![image](https://github.com/Ched2370/tp_Integrador_backEnd_CaC/assets/127058951/dd06c5ed-9d63-4686-b161-c3d764f4ebd6)
